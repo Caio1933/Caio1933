@@ -27,7 +27,7 @@ Caio Drumond
   <a href="caio1933contatoprossional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/caio-drumond-403790244?trk=contact-info" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-<div align="Center">
+
     [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seu-username)](https://git.io/streak-stats)
-</div>
+
 
