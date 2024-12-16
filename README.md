@@ -12,7 +12,7 @@ Caio Drumond
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio1933&layout=compact&theme=radical"/>
   </a>
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Caio1933&theme=radical)](https://git.io/streak-stats)
+
 </div>
 
 <div style="display: inline_block"><br>
