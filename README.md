@@ -1,9 +1,10 @@
 Caio Drumond
 
 
-- 🔭 Hoje curso desenvolvimento de sistemas ...
-- 🌱 Estudando java ...
-- 💬 Pergunte-me sobre: java, hmtl, css e javascript ...
+📊 | Programador back end & banco de dados |
+🚀 | Especializando em pytho |
+⚙️ | Lógica de programa~ção |
+📒 | Desenvolvimento de sistemas |
 ## Minhas Estatísticas do GitHub:
 <div align="center">
   <a href="https://github.com/Caio1933">
