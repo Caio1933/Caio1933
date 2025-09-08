@@ -1,12 +1,9 @@
-<<<<<<< HEAD
-"# vanguard" 
-=======
 Caio Drumond
 
 
-📊 | Programador back end & banco de dados |
-🚀 | Especializando em pytho |
-⚙️ | Lógica de programa~ção |
+📊 | Programador back end |
+🚀 | Especializando em py |
+⚙️ | Lógica de programação |
 📒 | Desenvolvimento de sistemas |
 ## Minhas Estatísticas do GitHub:
 <div align="center">
