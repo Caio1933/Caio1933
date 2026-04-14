@@ -1,10 +1,9 @@
 Caio Drumond
 
 
-📊 | Programador back end |
 🚀 | Especializando em py |
 ⚙️ | Lógica de programação |
-📒 | Desenvolvimento de sistemas |
+📒 | Desenvolvimento de sistemas & Ciência da computação |
 ## Minhas Estatísticas do GitHub:
 <div align="center">
   <a href="https://github.com/Caio1933">
