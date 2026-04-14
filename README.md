@@ -1,9 +1,10 @@
-Caio Drumond
+## Caio Drumond
 
 
-🚀 | Especializando em py |
-⚙️ | Lógica de programação |
-📒 | Desenvolvimento de sistemas & Ciência da computação |
+
+📒 | Desenvolvimento de sistemas & Ciência da computação | Especializando em pythn e IA |
+
+
 ## Minhas Estatísticas do GitHub:
 <div align="center">
   <a href="https://github.com/Caio1933">
@@ -24,7 +25,6 @@ Caio Drumond
 ## Connect with me:
 <div>
   <a href="https://www.instagram.com/caiodrumond1/profilecard/?igsh=ZDdrdHdocXU0YzJ4" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="caiodrumondprofissional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/caio-drumond-403790244?trk=contact-info" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
